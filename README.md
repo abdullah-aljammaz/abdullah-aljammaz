@@ -12,7 +12,7 @@
 
 ## Languages and Tools
 
-<p align="center"> <a href="https://github.com/User"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mysql,css,html,git,python,discord"> </a> </p>
+<p align="center"> <a href="https://github.com/User"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mysql,css,html,git,python"> </a> </p>
 
 ## My Stats:
 
