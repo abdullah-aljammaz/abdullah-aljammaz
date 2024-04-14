@@ -71,12 +71,11 @@
 <p align="left"> <a href="https://github.com/yaratax"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mysql,css,html,js,express,nodejs,react,bootstrap,cs,java,git"> </a> </p>
 
 ## Status
-<div style="">
-<p align="" style="display:inline">
-    <img height="50px" src="https://github-readme-stats.vercel.app/api?username=yaratax&show_icons=true&title_color=EEEEEE&icon_color=76ABAE&text_color=EEEEEE&bg_color=222831" alt="GitHub Stats"/>
+<p align="center">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=yaratax&show_icons=true&title_color=EEEEEE&icon_color=76ABAE&text_color=EEEEEE&bg_color=222831" alt="GitHub Stats"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaratax&title_color=EEEEEE&icon_color=76ABAE&text_color=EEEEEE&bg_color=222831&layout=donut">
 </p>
-<p align="" style="display:inline">
-<img height="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaratax&title_color=EEEEEE&icon_color=76ABAE&text_color=EEEEEE&bg_color=222831&layout=donut"></div>
+
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
